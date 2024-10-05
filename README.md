@@ -2,7 +2,7 @@
 <img src="path_to_your_name_image.png" alt="Sami Saud" width="200" />
 
 # Hi, I’m Sami Saud 👋
-I’m passionate about **Statistics & Data Science**, with a focus on turning data into actionable insights. I have over **4 years of experience** in the tech industry, specifically in **analyzing and optimizing drilling operations**. I'm continuously learning new technologies and deepening my expertise in **SQL** and **Machine Learning**. My work often revolves around analyzing data and creating impactful dashboards to drive decisions.
+I’m passionate about **Statistics & Data Science**, with a focus on turning data into actionable insights. I have over **4 years of experience** in the tech industry. I'm continuously learning new technologies and deepening my expertise in **Machine Learning**. My work often revolves around analyzing data and creating impactful models to drive decisions.
 
 ### 🚀 What I Do:
 - **Data Analysis & Visualization:** I enjoy making sense of data and presenting it visually using tools like **Tableau** and **Plotly**.
