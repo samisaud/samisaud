@@ -1,3 +1,5 @@
+<!-- Custom PNG for your name -->
+<img src="path_to_your_name_image.png" alt="Sami Saud" width="200" />
 - Hi, I’m Sami Saud
 - I’m interested in Statistics & Data Science.
 - I’m always learning SQL & Machine Learning
@@ -5,12 +7,9 @@
 - I love creating Dashboards!
 - Reach out to me on 
     - <img width="17" src="https://i.stack.imgur.com/gVE0j.png"> LinkedIn: [Sami Saud](https://www.linkedin.com/in/samisaud/) <br>
-    - <img width="17" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667"> Email: contact.bhumit@gmail.com
-    - <img width='17' src="https://w7.pngwing.com/pngs/674/247/png-transparent-tableau-software-computer-software-data-visualization-nyse-data-business-intelligence-software-software-company-symmetry-cross-thumbnail.png"> 
+    - <img width="17" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667"> Email: ssaud.asu@gmail.com
 
 
-<!-- Custom PNG for your name -->
-<img src="path_to_your_name_image.png" alt="Sami Saud" width="200" />
 
 ## Skill Set 💪
 
