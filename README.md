@@ -1,17 +1,22 @@
 <!-- Custom PNG for your name -->
 <img src="path_to_your_name_image.png" alt="Sami Saud" width="200" />
-- Hi, I’m Sami Saud
-- I’m interested in Statistics & Data Science.
-- I’m always learning SQL & Machine Learning
-- I have 4 years of experience in the Tech Industry, analyzing the drilling operations and optimizing them. 
-- I love creating Dashboards!
-- Reach out to me on 
-    - <img width="17" src="https://i.stack.imgur.com/gVE0j.png"> LinkedIn: [Sami Saud](https://www.linkedin.com/in/samisaud/) <br>
-    - <img width="17" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667"> Email: ssaud.asu@gmail.com
 
+# Hi, I’m Sami Saud 👋
+I’m passionate about **Statistics & Data Science**, with a focus on turning data into actionable insights. I have over **4 years of experience** in the tech industry, specifically in **analyzing and optimizing drilling operations**. I'm continuously learning new technologies and deepening my expertise in **SQL** and **Machine Learning**. My work often revolves around analyzing data and creating impactful dashboards to drive decisions.
 
+### 🚀 What I Do:
+- **Data Analysis & Visualization:** I enjoy making sense of data and presenting it visually using tools like **Tableau** and **Plotly**.
+- **Machine Learning & AI:** Hands-on experience with **TensorFlow**, **Keras**, and **Scikit-Learn** for building predictive models.
+- **Cloud & Infrastructure:** Working with **AWS** and **Docker** to deploy scalable solutions.
+- **Programming:** Skilled in **Python**, **SQL**, and **JavaScript** for data pipelines, web apps, and automation.
 
-## Skill Set 💪
+### 💼 Reach out to me:
+- <img width="17" src="https://i.stack.imgur.com/gVE0j.png"> [LinkedIn: Sami Saud](https://www.linkedin.com/in/samisaud/)  
+- <img width="17" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667"> Email: ssaud.asu@gmail.com
+
+---
+
+## 🛠 Skill Set 💪
 
 These are some of the major technologies I use or have worked on in the past:
 
