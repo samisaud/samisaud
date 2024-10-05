@@ -1,4 +1,4 @@
-# ![Sami Saud Name](https://github.com/your-username/your-repo-name/blob/main/your-image.png)
+# ![Sami Saud Name](https://github.com/samisaud/samisaud/blob/main/sami%20saud%20name.png)
 
 I'm a **Data Scientist** with a passion for **Statistics**, **Data Science**, and **Deep Learning**. I’m constantly exploring cutting-edge technologies in **Machine Learning** and **Deep Learning** to solve complex problems, especially in healthcare and tech industries. With over **3 years of experience** in the Tech Industry, I specialize in using data to drive **data-informed decisions** and build scalable solutions.
 
